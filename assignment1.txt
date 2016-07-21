@@ -1,0 +1,23 @@
+What is a compiler?    Theory questions on errors
+Answer:
+	A compiler translates the language of your written code into language that the computer can understand and then execute. We use the compiler GCC.
+
+
+
+
+
+
+a.
+	a. is a compiler error because there is no semi colon at the end of the line. This is a syntax error, therefore the compiler would be unable to translate it, therefore it should be classified as a comiler error.
+
+b.
+	b. is a compiler error because you cannot have a variable name that starts with a number. Therefore the compiler would be unable to translate it, therefore it should be classified as a compiler error.
+
+c.	c. is a run time error because although the code is written correctly with the correct syntax, since you are dividing by zero, although it will succesfully compile, it will run into problems when you actually run the program because you are trying to execute an impossible equation.
+
+
+
+
+
+a.
+	One of the errors with this code is that in the beginning, the writer said that this specific code would have no return by putting the word void before main. But later in the code, he asks the code to return something, thus contradicting himself. The second error with this code is that %d is used for keeping the place of a variable that is an integer. But x was defined as a float, therefore this person would have to use %f instead. The last problem is minor but is still a problem, which is that in the last line of code the word Return should be lowercase.
