@@ -1,0 +1,23 @@
+Matthew Kellerman
+1.
+A compiler is a program that transforms one computer programming language   
+into another one. For example, you can use a compiler to change Python code into Assembly code.
+
+2.
+A compile error occurs when the code in a program is invalid. 
+A runtime error occurs when the code is correct, but it can't be carried 
+out.
+
+a.
+This is a compile error because there is a missing semicolon after the 2.
+
+b.
+This is a compile error because a variable cannot begin with a number.
+
+c.
+This is a runtime error because the code is correct, but the computer cannotdivide a number by 0.
+
+3.There are three things wrong with this code. First of all, %d is for 
+decimals, not floats. It should be changed to %f. Secondly, the "r" in 
+"Return" should be lowercased. Finally, the code shouldn't have a return 
+because the code is void.
