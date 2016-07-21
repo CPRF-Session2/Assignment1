@@ -1,0 +1,46 @@
+Jinoo Hong
+
+1.  What is a compiler? Explain thoroughly and in your own words. 
+	A compiler is a program translates some higher level language files such as C and Basic files into an object file which is a file that is a very long list of 1's and 0's for the computer to execute, except, unlike and executable, it's library references are not compiled. The linker compiles the library references remaining to create the final executable file for the computer to execute. Although this is a two step process, (compiler, then linker), most compilers come with linkers too.
+
+
+
+2.  Are the following errors compile time errors or runtime errors? Why? Explain the difference. 
+
+    a.
+    ```
+      int x = 2
+    ```
+It is a compile time error because the computer connot understand it as there is a missing semicolon.
+
+    b.
+    ```
+      float 1num = 3.0;
+    ```
+This is a runtime error because you cannot divide by 0.
+
+    c. 
+    ```
+      double num  = 4.0 / 0.0; 
+    ```
+This is a runtime error because you cannot divide by 0.
+
+
+
+3. What, if anything, is wrong with the following code?
+
+   ```
+    #include <stdio.h>
+    void main() {  
+        float x = 41.5;  
+        printf("The value of x is %d", x);
+        Return 0;
+    }  
+    ```
+	#include <stdio.h>
+	int main ()
+		{
+		float x = 41.5;
+		printf("The value of x is %f", x);
+		return 0;
+		}
