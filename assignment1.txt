@@ -1,0 +1,30 @@
+\*Rebecca Hale, Part 2 Assignment 1*\
+
+#include <stdio.h>
+  int main(){
+
+	\*Question 1*\
+  	printf("A compiler is a tool used by computers that translates/n");
+	printf("code written by humans into code/n");
+	printf("that computers can understand or follow.\n");
+	\*Question 2*\
+	printf("a. Compilation error because ; was forgotten\n");
+	printf("b. Compilation error: variable was named incorrectly\n");
+	printf("c. Runtime error because it is impossible to divide by 0");
+	printf("\nA compilation error is different from a run-time error");
+	printf("because a compilation error is caused by a computer\'s");
+	printf("inability to understand the code that was written.");
+	printf("On the other hand, a run-time error occurs when");
+	printf("the computer is running the code and tries to do an");
+	printf("impossible action, such as dividing by 0");
+	\*Question 3*\
+	printf("/nThere are a few things wrong with the code.  First,");
+	printf("the main was given a void type, but all mains");
+	printf("should be given an int type.  Also, %d represents an");
+	printf("integer, not a float.  The %d should be replaced");
+	printf("with %f.  Lastly, the return statement is made for a");
+	printf("function with the int type and the return is");
+	printf("incorrectly capitalized.");
+
+	return 0;
+}
