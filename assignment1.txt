@@ -1,0 +1,6 @@
+Mariposa Lee
+1. A compiler helps the computer understand code by processing a piece of code written in a specific language to another language that the computer can understand. In this case, we program the code first in C. Then, the compiler takes the code in C and converts it into instructions readable by the computer. 
+2a.  It is a compilation error. The statement is missing a semicolon, which would mean the code would not compile. 
+2b. It is a compilation error. The statement has a variable starting with a number, when a variable must start with a letter. 
+2c. It is a runtime error. The number four cannot be divided by 0, resulting in code that cannot be carried out, even though it could be successfully compiled and start executing. 
+3. The only problem I'm seeing is how line 5 shows return with a capital r. I believe it is most likely a runtime error, because the code would most likely be able to compile... 
