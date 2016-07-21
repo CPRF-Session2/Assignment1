@@ -1,4 +1,4 @@
-# Assignment 1
+ # Assignment 1
 
 ## Objectives
 Get comfortable with simple output, variables, and data types by practicing them in a simple program.
