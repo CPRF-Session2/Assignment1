@@ -3,4 +3,4 @@ Mariposa Lee
 2a.  It is a compilation error. The statement is missing a semicolon, which would mean the code would not compile. 
 2b. It is a compilation error. The statement has a variable starting with a number, when a variable must start with a letter. 
 2c. It is a runtime error. The number four cannot be divided by 0, resulting in code that cannot be carried out, even though it could be successfully compiled and start executing. 
-3. The only problem I'm seeing is how line 5 shows return with a capital r. I believe it is most likely a runtime error, because the code would most likely be able to compile... 
+3. The code says the value of x should be %d, even though it should be %f since the printing variable is a floating point. %d is for printing integers instead. In addition, it seems that return is written with a capital R instead of lowercase. I belive that would result in a runtime error, because the code would most likely be able to compile. 
