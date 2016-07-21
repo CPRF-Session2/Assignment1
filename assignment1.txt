@@ -1,0 +1,21 @@
+Priyanka Musti
+
+1.
+
+A compiler is something that translates the code into something that the computer understands and can carry out.
+
+
+ 2.
+
+ a. This is most likely a compilation error because this is an error in the code that the computer doesn't understand becuase there is not a ; at the end of the line of code.
+
+ b.This is most likely a compilation error because it is an error in the code because you cannot have a number in front of the num.
+
+
+ c. This is a runtime error because they are dividing by zero.
+
+
+
+ 3. 
+
+ The 'Return' that is towards the end of the code has the r capitalized where it shouldn't be capitalized or else it may create a compilation error.
