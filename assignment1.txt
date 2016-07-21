@@ -1,0 +1,7 @@
+Drew French
+
+2)	a) Compile error; will not compile to a .out file (missing semicolon after 2).
+	b) Compile error; will not compile to a .out file (variable does not start with a letter).
+	c) Runtime error; will compile, but will crash when run (dividing by 0).
+
+3)	"Return" should instead be "return", & "%d" should be "%f".
