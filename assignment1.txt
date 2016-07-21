@@ -1,0 +1,14 @@
+Madeleine Charity
+ 
+ 1) What is a compiler?
+    
+A compiler converts code in one language into another language. Our compiler (gcc) converts C into assembly.
+	 
+2)
+	a) this is a compile time error because it is missing a semicolon and does not have correct syntax
+	b) this is a compile time error because the variable starts with a number
+	c) this is runtime error because you cannot divide by zero
+	A compile time error is a error, usually syntax related, that makes the code unreadble to the     compiler. Where as with a runtime error, your code compiles but the code cannot be executed.
+		  
+3) In line 2, the word "void" should be replaced with "int". In line 4, the %d should be %f.
+
