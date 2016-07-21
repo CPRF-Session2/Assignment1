@@ -1,0 +1,10 @@
+1.  A compiler turns the coding which is readable for humans into a binary form, so that a computer can read it.
+
+2. Compiler errors are when they occur while the code is being compiled, whereas a runtime error occurs while the computor is running the code.
+
+	(1) Compile error - because there is no semicolon at the end, the computor can't read it.
+	(2) Compile error - Variables cannot be read if they begin with a number.
+	(3) Runtime error - It is impossible to divide a number by 0
+
+3. A voidmain() does not return a value.
+
