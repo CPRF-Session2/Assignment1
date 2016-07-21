@@ -1,0 +1,8 @@
+Albert Zhang
+1. A compiler is what turns the code that is readable by humans into something that the computer can easily read and turn into binary.
+2. A compile error is an error that happens when the computer is compiling the code, and a runtime error is when there is an error when the computer is running the code.
+	1) This is a compile error because the computer did not understand the code because there was no semicolon at the end of the line.
+	2) This is a compile error because variables are not allowed to begin with a number because the computer can't understand it.
+	3) This is a runtime error because you can't divide by 0, so the error happens when the computer is running the code.
+3) I'm not 100% positive this is an error, but there is void main instead of int main on the second line.
+
