@@ -1,0 +1,17 @@
+1. A compiler is a program that takes code written in C and translates it into Assembly, a compiler is used so a computer can be one step closer to reading code
+
+
+
+2.
+
+a: compiler error-it is syntaxual they forgot the ";"
+
+b: compiler error - again sytax error - you cant begin with a non alphabetic character
+
+
+c: runtime error - nothing is wrong here technically but the computer cannot divide by 0
+
+
+Compiler errors are human caused while runtime errors are the limitations of the computer
+
+3. A couple things wrong with this code in the printf it does %d which works for int not float it should %f and they captalized the "r" in return while it should stay lowercase. Finally int main() rather than void main(), which almost got by me because void is what I use in processing.js all the time.
