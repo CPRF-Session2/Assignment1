@@ -1,0 +1,11 @@
+Ashank Kumar Assignment 1
+
+1. A compiler is a program that converts code written in one programming language such as C into another proggramming language, such as assembly.
+
+2a. This is a compilation error since there is a missing semicolong after 2, therefore the code wil not compile into a executable.
+
+2b. This is a compilation error since a variable name cannot being with a number, therefore the code wil not compile into a executable.
+
+2c. This is a runtime error since although the code will compile into an executable the computer cannot divide by zero leading to a divide bt zero error.
+
+3. The method is designated as void, but a zero is still unnecessarily being returned.
