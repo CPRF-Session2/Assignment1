@@ -14,6 +14,7 @@ Write a program `initials.c` to print your initials formed by rows of pound sign
       ###         ###     ###
       ###         ###     ###
       #########   ###     ###
+
 ```
 
 ### Part 2

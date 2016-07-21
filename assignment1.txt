@@ -1,0 +1,16 @@
+1. Compiler is a program which translates codes written 
+in different programming languages to a code that the machine 
+can understand and process.
+2.A. int x = 2 Compilation Error, There is no semicolon at the end.
+2.B. float 1num = 3.0; Compilation Error, The name of the float cannot start with a number.
+2.C. double num = 4.0 / 0.0; Runtime Error, It cannot divide 4 by 0
+2. Compilation Error occurs when there is a syntax error, a typo. Runtime   Error occurs after compilation, the code is grammatically correct but it    cannot be exacuted
+3.
+include <stdio.h>
+
+void main() {
+	float x = 41.5;
+	printf("The value of x is %d", x);
+	Return 0;
+    }
+     In the code void main needs to be int main and x is a float so inside  the printf %d needs to be %f.
