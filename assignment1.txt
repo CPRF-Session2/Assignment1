@@ -1,0 +1,12 @@
+1. What is a compiler?
+A compiler is a program that transforms code written in a given language into one that the computer can  read
+
+2. Runtime Errors, or Compile time errors? Why? What is the difference?
+A compile time error is an error that occures with the code is being compiled because the compiler found code that it cannot read. Runtime errors happen when you are executing the code, usually caused by code  that cannot be carried out.
+
+	1: Compilation error; forgot semicolon
+	2: Compilation error; you cannot start a variable with a number
+	3: Runtime error; computer cannot divide 0 
+
+3. What, if anything, is wrong with the code?
+The printing variable is %f, not %d. This is because the value of x is a floating point, not an integer.
